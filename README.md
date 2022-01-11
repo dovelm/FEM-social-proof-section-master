@@ -27,7 +27,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 Users should be able to:
 
-- Create a NFT preview card component 
+- Create a Social proof section
 
 ### Screenshots
 
@@ -67,5 +67,4 @@ I learned to use elements flexbox.
 ## Author
 [@dusvimarin](https://github.com/dusvimarin)
 
-# FEM-social-proof-section-master
 
