@@ -33,7 +33,7 @@ Users should be able to:
 
 ![](https://github.com/dusvimarin/FEM-social-proof-section-master/blob/main/screenshots/desktop.png)
 
-![](https://github.com/dusvimarin/FEM-social-proof-section-master/blob/main/screenshots/mobile.jpeg)
+![](https://github.com/dusvimarin/FEM-social-proof-section-master/blob/main/screenshots/mobile.png)
 
 
 ### Links
